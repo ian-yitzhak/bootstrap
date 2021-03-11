@@ -1,0 +1,12 @@
+.rounded-circle {
+    width: 80px;
+    height: 80px;
+}
+
+.active {
+    padding: 20px;
+}
+
+.nav-link {
+    font-weight: bold;
+}
